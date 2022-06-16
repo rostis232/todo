@@ -8,3 +8,4 @@ Simple to-do app on Golang
 #### github.com/lib/pq
 #### github.com/jmoiron/sqlx
 #### github.com/joho/godotenv
+#### github.com/sirupsen/logrus
