@@ -9,3 +9,4 @@ Simple to-do app on Golang
 #### github.com/jmoiron/sqlx
 #### github.com/joho/godotenv
 #### github.com/sirupsen/logrus
+#### github.com/dgrijalva/jwt-go
